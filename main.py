@@ -11,7 +11,7 @@ import aiosqlite
 
 logging.basicConfig(level=logging.INFO)
 
-API_TOKEN = '6760587653:AAHfSEFWZCfMCHf5DiQzXCwlELQ2CS35S4k'
+API_TOKEN = '#################################'
 
 bot= Bot(API_TOKEN)
 
